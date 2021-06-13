@@ -1,4 +1,4 @@
-# RestApiTesting.Framework.Jaguar  <img src ="RestApiTesting.Framework.Jaguar/Images/jaguar.jpg" width=99>
+# RestApiTesting.Framework
 This is a RESTful API testing Framework using C#, .NET Core, xUnit, Specflow BDD with context injection, Flurl and Fluent Assertions to test JSONPlaceholder REST API.  
 
 ## Specflow  <img src ="RestApiTesting.Framework.Jaguar/Images/specflow.png" width=99>
